@@ -9,7 +9,7 @@ function App() {
     <div className='app'>
       <h1>React Series</h1>
      <Tweet name="Doll"/>
-     <Tweet name="Mel"/>
+     <Tweet name="Mell"/>
     </div>
   );
 }
