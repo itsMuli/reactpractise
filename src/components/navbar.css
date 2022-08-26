@@ -1,0 +1,38 @@
+.navbar {
+    width: 100%;
+    height: 90px;
+    background-color: indianred;
+}
+
+.navbar .container {
+    width: 1130px;
+    height: 100%;
+    margin: 0 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar li {
+    padding: 1rem;
+    list-style: none;
+}
+
+/* .hamburger{
+    display: none;
+} */
+
+.navbar .icon {
+    color: whitesmoke;
+    font-size: 2rem;
+}
+
+.navbar h1,a {
+    color: whitesmoke;
+}
